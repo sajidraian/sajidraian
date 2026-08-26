@@ -1,5 +1,5 @@
 
-# Hi, I'm Sajid Al Raian 👋<br><br>### CSE Student | Aspiring Full-Stack Developer<br><br>Passionate about building web applications, solving problems,<br>and continuously learning new technologies.<br><br>- 💻 Full-Stack Development<br>- 🌐 JavaScript • React • Node.js • Express<br>- 🧠 Data Structures & Algorithms<br>- 🚀 Building & learning through projects
+# Hi, I'm Sajid Al Raian 👋<br><br>### CSE Student | Aspiring Full-Stack Developer<br><br>Passionate about building web applications, solving problems,<br>and continuously learning new technologies.<br><br>- 💻 Full-Stack Development<br>-🧠 Data Structures & Algorithms<br>- 🚀 Building & learning through projects
 
 
 ## 🌐 Socials:
