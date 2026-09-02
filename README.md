@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sajid+Al+Raian+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications+%F0%9F%92%BB;Turning+Ideas+into+Code+%F0%9F%9A%80;Always+Learning.+Always+Building." />
 </p>
 
-<!-- ===================== SOCIALS ===================== -->
-
 <p align="center">
   <a href="https://github.com/sajidraian">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -48,69 +46,32 @@
   <b>Building. Learning. Debugging. Repeating. 🚀</b>
 </p>
 
-<p>
-  I'm a CSE student and aspiring Full-Stack Developer passionate about building modern, responsive, and practical web applications.
-</p>
-
-<p>
-  I enjoy turning ideas into clean code, solving programming problems, and exploring new technologies. Currently, I'm focused on strengthening my full-stack development, DSA, and problem-solving skills through real-world projects.
-</p>
-
-<table>
+<table align="center">
 <tr>
 <td>
 
-<b>👨‍💻 Developer</b>
-
-<br>
-
-Aspiring Full Stack Developer
-
-<br><br>
-
-<b>🎓 Education</b>
-
-<br>
-
-B.Sc. in Computer Science & Engineering
-
-<br><br>
-
-<b>📍 Location</b>
-
-<br>
-
-Barishal, Bangladesh
-
-</td>
-
-<td>
-
-<b>🚀 Current Focus</b>
-
-<br>
-
-Building modern web applications
-
-<br><br>
-
-<b>🧠 Learning</b>
-
-<br>
-
-Next.js • React • Express • MongoDB
-
-<br><br>
-
-<b>💡 Mindset</b>
-
-<br>
-
-Learn. Build. Improve.
+<pre>
+const dev = {
+  name: "Sajid Al Raian",
+  role: "Aspiring Full Stack Web Developer",
+  education: "B.Sc. in Computer Science & Engineering",
+  location: "Barishal, Bangladesh",
+  currentFocus: "Becoming a better full stack web developer",
+  learning: ["React", "Next.js", "Express.js", "MongoDB"],
+  interests: ["Web Development", "DSA", "Problem Solving"],
+  mindset: "Learn. Build. Improve. Repeat."
+};
+</pre>
 
 </td>
 </tr>
 </table>
+
+I'm a **CSE student and aspiring Full Stack Developer** passionate about building clean, functional, and modern web applications — from responsive frontends to practical backend systems.
+
+I enjoy turning ideas into **clean code**, solving programming problems, and exploring new technologies. Currently, I'm focused on strengthening my **full-stack development, DSA, and problem-solving skills** through real-world projects.
+
+Outside of code, I enjoy **watching football, movies, and exploring new things**. 🚀
 
 ---
 
@@ -270,9 +231,7 @@ Learn. Build. Improve.
 ## 🧠 Developer Mindset
 
 <p align="center">
-
-### Learn → Build → Break → Fix → Improve → Repeat
-
+  <h3 align="center">Learn → Build → Break → Fix → Improve → Repeat</h3>
 </p>
 
 <p align="center">
