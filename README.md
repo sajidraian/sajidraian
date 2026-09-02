@@ -1,4 +1,8 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================================================== -->
+
+<!--                    HEADER BANNER                       -->
+
+<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -8,45 +12,98 @@
   />
 </p>
 
+<!-- ===================================================== -->
+
+<!--                  TYPING ANIMATION                     -->
+
+<!-- ===================================================== -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sajid+Al+Raian+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%92%BB"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sajid+Al+Raian+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications+%F0%9F%92%BB;Turning+Ideas+into+Code+%F0%9F%9A%80;Always+Learning.+Always+Building."
     alt="Typing Animation"
   />
 </p>
 
+<!-- ===================================================== -->
+
+<!--                     SOCIALS                           -->
+
+<!-- ===================================================== -->
+
 <p align="center">
+  <a href="https://github.com/sajidraian">
+    <img
+      src="https://img.shields.io/badge/GitHub-Sajid%20Al%20Raian-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
   <a href="https://linkedin.com/in/sajid-al-raian">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://facebook.com/sajid.al.raian.2025">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
   <a href="mailto:raian.12511010.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 <p align="center">
-  📍 <b>Barishal, Bangladesh</b> &nbsp; • &nbsp;
+  📍 <b>Barishal, Bangladesh</b>
+  &nbsp; • &nbsp;
   📧 <b>raian.12511010.cse@gmail.com</b>
 </p>
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                     ABOUT ME                          -->
+
+<!-- ===================================================== -->
+
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+<img
+align="right"
+width="280"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZpYndjczN0aGV1czl0ZG1pZDE5ZnBmNzVrdmNta2hmNDF3ZHRxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"
+alt="Developer Animation"
+/>
 
-I'm **Sajid Al Raian**, a CSE student and aspiring full-stack developer passionate about creating modern, responsive, and user-friendly web applications.
+I'm **Sajid Al Raian**, a CSE student and aspiring **Full-Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into practical projects, solving programming problems, and exploring new technologies.
+I enjoy turning ideas into practical projects, solving programming problems, and continuously exploring new technologies.
 
-My goal is to become a professional **Full-Stack Developer** by continuously learning, building real-world projects, and improving my problem-solving skills.
+My goal is to grow as a professional developer by building real-world applications, strengthening my problem-solving skills, and continuously learning modern development practices.
+
+### 🎯 My Focus
+
+* 💻 Full-Stack Web Development
+* 🧠 Data Structures & Algorithms
+* 🚀 Real-World Project Development
+* 🌱 Continuous Learning
+* 🔧 Clean & Maintainable Code
 
 <br clear="right"/>
 
 ---
+
+<!-- ===================================================== -->
+
+<!--                CURRENT ACTIVITIES                     -->
+
+<!-- ===================================================== -->
 
 ## 🚀 What I'm Currently Doing
 
@@ -59,47 +116,59 @@ My goal is to become a professional **Full-Stack Developer** by continuously lea
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                    TECH STACK                         -->
+
+<!-- ===================================================== -->
+
 ## 🛠️ Skills & Technologies
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="Programming Languages"/>
 </p>
 
 ### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and Database Technologies"/>
 </p>
 
 ### 🔧 Tools & Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools"/>
 </p>
 
 ---
+
+<!-- ===================================================== -->
+
+<!--                  GITHUB STATS                         -->
+
+<!-- ===================================================== -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=sajidraian&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
-    alt="GitHub Stats"
+    alt="Sajid's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=sajidraian&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+    alt="Sajid's GitHub Streak"
   />
 </p>
 
@@ -112,6 +181,12 @@ My goal is to become a professional **Full-Stack Developer** by continuously lea
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                  GITHUB TROPHIES                      -->
+
+<!-- ===================================================== -->
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -123,11 +198,17 @@ My goal is to become a professional **Full-Stack Developer** by continuously lea
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                 FEATURED PROJECTS                     -->
+
+<!-- ===================================================== -->
+
 ## 📌 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌐 My Web Portfolio
 
@@ -137,13 +218,20 @@ A personal portfolio website showcasing my skills, projects, and development jou
 
 `React` `JavaScript` `CSS`
 
-<a href="https://github.com/sajidraian/my-web-portfolio">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
+<p>
+  <a href="https://github.com/sajidraian/my-web-portfolio">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Portfolio Repository"
+    />
+  </a>
+</p>
 
+```
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+```
 
 ### 💻 DevConf 2026
 
@@ -153,17 +241,31 @@ A responsive developer conference/event website built as part of my web developm
 
 `React` `JavaScript` `CSS`
 
-<a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
+<p>
+  <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View DevConf Repository"
+    />
+  </a>
+</p>
 
+```
 </td>
-</tr>
+```
+
+  </tr>
 </table>
 
 ---
 
-## 🐍 My Contribution Journey
+<!-- ===================================================== -->
+
+<!--                CONTRIBUTION GRAPH                     -->
+
+<!-- ===================================================== -->
+
+## 🐍 Contribution Journey
 
 <p align="center">
   <img
@@ -174,21 +276,61 @@ A responsive developer conference/event website built as part of my web developm
 
 ---
 
+<!-- ===================================================== -->
+
+<!--                  DEVELOPER QUOTE                      -->
+
+<!-- ===================================================== -->
+
+## ✍️ Developer Mindset
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+    alt="Developer Quote"
+  />
+</p>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                   CONNECT WITH ME                     -->
+
+<!-- ===================================================== -->
+
 ## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sajid-al-raian">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
+
   <a href="https://facebook.com/sajid.al.raian.2025">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
+
   <a href="mailto:raian.12511010.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 ---
+
+<!-- ===================================================== -->
+
+<!--                    PROFILE VIEWS                      -->
+
+<!-- ===================================================== -->
 
 <p align="center">
   <img
@@ -198,18 +340,23 @@ A responsive developer conference/event website built as part of my web developm
 </p>
 
 <p align="center">
-  <i>“Learning • Building • Improving”</i>
+  <i>Learning • Building • Improving</i>
 </p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ===================================================== -->
+
+<!--                    FOOTER                             -->
+
+<!-- ===================================================== -->
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
     width="100%"
+    alt="Animated Footer"
   />
 </p>
