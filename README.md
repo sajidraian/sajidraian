@@ -35,8 +35,6 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
 ## 🧬 About Me
 
 <p align="center">
@@ -50,100 +48,268 @@
   <b>Building. Learning. Debugging. Repeating. 🚀</b>
 </p>
 
-```js
-const dev = {
-  name: "Sajid Al Raian",
-  role: "Aspiring Full Stack Developer",
-  education: "B.Sc. in Computer Science & Engineering",
-  location: "Barishal, Bangladesh",
+<p>
+  I'm a CSE student and aspiring Full-Stack Developer passionate about building modern, responsive, and practical web applications.
+</p>
 
-  currentFocus: "Building modern web applications",
+<p>
+  I enjoy turning ideas into clean code, solving programming problems, and exploring new technologies. Currently, I'm focused on strengthening my full-stack development, DSA, and problem-solving skills through real-world projects.
+</p>
 
-  stack: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express",
-    "MongoDB"
-  ],
+<table>
+<tr>
+<td>
 
-  hobbies: [
-    "Watching Football",
-    "Watching Movies"
-  ],
+<b>👨‍💻 Developer</b>
 
-  mindset: "Learn. Build. Improve."
-};
+<br>
 
-I’m a CSE student and aspiring Full-Stack Developer passionate about building modern, responsive, and practical web applications.
+Aspiring Full Stack Developer
 
-I enjoy turning ideas into clean code, solving programming problems, and exploring new technologies. Currently, I’m focused on strengthening my full-stack development, DSA, and problem-solving skills through real-world projects.
+<br><br>
 
-<!-- ===================== OPEN TO ===================== -->
-🎯 Open To
-<p align="center"> <img src="https://img.shields.io/badge/Full--Stack%20Development-36BCF7?style=for-the-badge&logo=code&logoColor=white" /> <img src="https://img.shields.io/badge/Frontend%20Projects-0EA5E9?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Collaboration-0284C7?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Learning%20%26%20Growth-0369A1?style=for-the-badge&logo=bookstack&logoColor=white" /> </p>
-<!-- ===================== TECH STACK ===================== -->
-🛠️ Tech Stack
-💻 Programming
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" /> </p>
-🎨 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" /> </p>
-⚙️ Backend & Database
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
-🔧 Tools & Design
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </p>
-<!-- ===================== FEATURED PROJECTS ===================== -->
-📌 Featured Projects
-Project	Description	Tech
-🚀 My Web Portfolio	Personal developer portfolio showcasing my skills, projects, and journey.	HTML • CSS
-💻 DevConf 2026	Modern developer conference website built with a responsive UI.	HTML • CSS
-<p align="center"> <a href="https://github.com/sajidraian/my-web-portfolio"> <img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026"> <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<!-- ===================== CURRENT FOCUS ===================== -->
-🔭 Current Focus
-learning:
-  - Next.js
-  - Modern Full-Stack Development
-  - React & Express.js
-  - MongoDB
+<b>🎓 Education</b>
 
-improving:
-  - Data Structures & Algorithms
-  - Problem Solving
-  - Clean Code
-  - Development Best Practices
+<br>
 
-building:
-  - Real-World Web Applications
+B.Sc. in Computer Science & Engineering
 
-goal:
-  - Become a Professional Full-Stack Developer
-<!-- ===================== BEYOND CODE ===================== -->
-🎮 Beyond Code
-⚽ Football — Watching matches and following the beautiful game
-🎬 Movies — Enjoying good stories, characters, and cinematic experiences
-💡 Learning — Exploring ideas beyond the codebase
-<!-- ===================== GITHUB STATISTICS ===================== -->
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sajidraian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidraian&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<b>📍 Location</b>
 
-</p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajidraian&theme=tokyonight&hide_border=true" /> </p>
-<!-- ===================== GITHUB ACHIEVEMENTS ===================== -->
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sajidraian&theme=algolia&no-frame=true&no-bg=true&margin-w=8" /> </p>
-<!-- ===================== CONTRIBUTION JOURNEY ===================== -->
-🐍 Contribution Journey
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
-<!-- ===================== DEVELOPER MINDSET ===================== -->
-🧠 Developer Mindset
-<p align="center"> <b>Learn → Build → Break → Fix → Improve → Repeat</b> </p>
+<br>
 
-I believe consistent learning and building real projects are the best ways to grow as a developer.
+Barishal, Bangladesh
 
-<!-- ===================== LET'S CONNECT ===================== -->
-🌐 Let's Connect
-<p align="center"> <a href="https://github.com/sajidraian"> <img src="https://img.shields.io/badge/GitHub-sajidraian-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/sajid-al-raian"> <img src="https://img.shields.io/badge/LinkedIn-Sajid%20Al%20Raian-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:raian.12511010.cse@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<!-- ===================== PROFILE VIEWS ===================== -->
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sajidraian&label=Profile%20Views&color=36BCF7&style=flat-square" /> </p> <p align="center"> <i>Thanks for visiting my profile. Let's build something meaningful. 🚀</i> </p> ```
+</td>
+
+<td>
+
+<b>🚀 Current Focus</b>
+
+<br>
+
+Building modern web applications
+
+<br><br>
+
+<b>🧠 Learning</b>
+
+<br>
+
+Next.js • React • Express • MongoDB
+
+<br><br>
+
+<b>💡 Mindset</b>
+
+<br>
+
+Learn. Build. Improve.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Open To
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Projects-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collaboration-0284C7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning%20%26%20Growth-0369A1?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🚀 **My Web Portfolio** | Personal developer portfolio showcasing my skills, projects, and journey. | HTML • CSS |
+| 💻 **DevConf 2026** | Modern developer conference website built with a responsive UI. | HTML • CSS |
+
+<p align="center">
+  <a href="https://github.com/sajidraian/my-web-portfolio">
+    <img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
+    <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔭 Current Focus
+
+<table>
+<tr>
+<td width="33%">
+
+### 📚 Learning
+
+- Next.js
+- Modern Full-Stack Development
+- React & Express.js
+- MongoDB
+
+</td>
+
+<td width="33%">
+
+### 📈 Improving
+
+- Data Structures & Algorithms
+- Problem Solving
+- Clean Code
+- Development Best Practices
+
+</td>
+
+<td width="33%">
+
+### 🚀 Building
+
+- Real-World Web Applications
+- Modern Web Projects
+- Full-Stack Applications
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>🎯 Goal: Become a Professional Full-Stack Developer</b>
+</p>
+
+---
+
+## 🎮 Beyond Code
+
+- ⚽ **Football** — Watching matches and following the beautiful game
+- 🎬 **Movies** — Enjoying good stories, characters, and cinematic experiences
+- 💡 **Learning** — Exploring ideas beyond the codebase
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sajidraian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidraian&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sajidraian&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sajidraian&theme=algolia&no-frame=true&no-bg=true&margin-w=8"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 🧠 Developer Mindset
+
+<p align="center">
+
+### Learn → Build → Break → Fix → Improve → Repeat
+
+</p>
+
+<p align="center">
+  <i>
+    I believe consistent learning and building real projects
+    are the best ways to grow as a developer.
+  </i>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/sajidraian">
+    <img src="https://img.shields.io/badge/GitHub-sajidraian-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/sajid-al-raian">
+    <img src="https://img.shields.io/badge/LinkedIn-Sajid%20Al%20Raian-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:raian.12511010.cse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=sajidraian&label=Profile%20Views&color=36BCF7&style=flat-square"
+  />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile. Let's build something meaningful. 🚀</i>
+</p>
