@@ -1,3 +1,4 @@
+
 <!-- ===================== HEADER BANNER ===================== -->
 
 <p align="center">
@@ -10,13 +11,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sajid+Al+Raian+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications+%F0%9F%92%BB;Turning+Ideas+into+Code+%F0%9F%9A%80;Always+Learning.+Always+Building." />
 </p>
 
+<!-- ===================== SOCIAL LINKS ===================== -->
+
 <p align="center">
   <a href="https://github.com/sajidraian">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://linkedin.com/in/sajid-al-raian">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://facebook.com/sajid.al.raian.2025">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -56,9 +61,26 @@ const dev = {
   role: "Aspiring Full Stack Web Developer",
   education: "B.Sc. in Computer Science & Engineering",
   location: "Barishal, Bangladesh",
-  currentFocus: "Becoming a better full stack web developer",
-  learning: ["React", "Next.js", "Express.js", "MongoDB"],
-  interests: ["Web Development", "DSA", "Problem Solving"],
+
+  learning: [
+    "React",
+    "Next.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  interests: [
+    "Web Development",
+    "DSA",
+    "Problem Solving"
+  ],
+
+  beyondCode: [
+    "Football",
+    "Movies",
+    "Exploring New Things"
+  ],
+
   mindset: "Learn. Build. Improve. Repeat."
 };
 </pre>
@@ -67,11 +89,11 @@ const dev = {
 </tr>
 </table>
 
-I'm a **CSE student and aspiring Full Stack Developer** passionate about building clean, functional, and modern web applications — from responsive frontends to practical backend systems.
+I'm a **CSE student and aspiring Full Stack Developer** focused on building modern, responsive, and practical web applications.
 
-I enjoy turning ideas into **clean code**, solving programming problems, and exploring new technologies. Currently, I'm focused on strengthening my **full-stack development, DSA, and problem-solving skills** through real-world projects.
+Currently, I'm strengthening my skills in **React, Next.js, Express.js, MongoDB, DSA, and problem solving** through hands-on projects and continuous learning.
 
-Outside of code, I enjoy **watching football, movies, and exploring new things**. 🚀
+Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 ---
 
@@ -130,58 +152,6 @@ Outside of code, I enjoy **watching football, movies, and exploring new things**
     <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🔭 Current Focus
-
-<table>
-<tr>
-<td width="33%">
-
-### 📚 Learning
-
-- Next.js
-- Modern Full-Stack Development
-- React & Express.js
-- MongoDB
-
-</td>
-
-<td width="33%">
-
-### 📈 Improving
-
-- Data Structures & Algorithms
-- Problem Solving
-- Clean Code
-- Development Best Practices
-
-</td>
-
-<td width="33%">
-
-### 🚀 Building
-
-- Real-World Web Applications
-- Modern Web Projects
-- Full-Stack Applications
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <b>🎯 Goal: Become a Professional Full-Stack Developer</b>
-</p>
-
----
-
-## 🎮 Beyond Code
-
-- ⚽ **Football** — Watching matches and following the beautiful game
-- 🎬 **Movies** — Enjoying good stories, characters, and cinematic experiences
-- 💡 **Learning** — Exploring ideas beyond the codebase
 
 ---
 
@@ -266,9 +236,11 @@ Outside of code, I enjoy **watching football, movies, and exploring new things**
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=sajidraian&label=Profile%20Views&color=36BCF7&style=flat-square"
+    alt="Profile Views"
   />
 </p>
 
 <p align="center">
   <i>Thanks for visiting my profile. Let's build something meaningful. 🚀</i>
 </p>
+```
