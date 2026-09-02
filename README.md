@@ -155,14 +155,15 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sajidraian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sajidraian&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidraian&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
@@ -171,11 +172,9 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sajidraian&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=sajidraian&theme=tokyonight&hide_border=true"
   />
 </p>
-
----
 
 ## 🏆 GitHub Achievements
 
