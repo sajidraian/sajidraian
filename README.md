@@ -1,34 +1,29 @@
+<!-- ===================== HEADER ===================== -->
 
-<!-- ===================== HEADER BANNER ===================== -->
+<h1 align="center">Hi 👋, I'm Sajid Al Raian</h1>
+
+<h3 align="center">
+CSE Student • Aspiring Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajidraian/sajidraian/main/github-pro-banner.jpg" width="100%" />
+  Building modern web applications • Learning every day • Turning ideas into code 🚀
 </p>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sajid+Al+Raian+%F0%9F%91%8B;CSE+Student+%7C+Aspiring+Full-Stack+Developer;Building+Modern+Web+Applications+%F0%9F%92%BB;Turning+Ideas+into+Code+%F0%9F%9A%80;Always+Learning.+Always+Building." />
-</p>
-
-<!-- ===================== SOCIAL LINKS ===================== -->
 
 <p align="center">
   <a href="https://github.com/sajidraian">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://linkedin.com/in/sajid-al-raian">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://facebook.com/sajid.al.raian.2025">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20%26%20Engineering-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20%26%20Engineering-36BCF7?style=flat-square" alt="BSc CSE" />
 </p>
 
 <p align="center">
@@ -40,22 +35,7 @@
 
 ## 🧬 About Me
 
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZpYndjczN0aGV1czl0ZG1pZDE5ZnBmNzVrdmNta2hmNDF3ZHRxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"
-    width="350"
-  />
-</p>
-
-<p align="center">
-  <b>Building. Learning. Debugging. Repeating. 🚀</b>
-</p>
-
-<table align="center">
-<tr>
-<td>
-
-<pre>
+```javascript
 const dev = {
   name: "Sajid Al Raian",
   role: "Aspiring Full Stack Web Developer",
@@ -83,11 +63,7 @@ const dev = {
 
   mindset: "Learn. Build. Improve. Repeat."
 };
-</pre>
-
-</td>
-</tr>
-</table>
+```
 
 I'm a **CSE student and aspiring Full Stack Developer** focused on building modern, responsive, and practical web applications.
 
@@ -100,10 +76,10 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 ## 🎯 Open To
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-36BCF7?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend%20Projects-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-0284C7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning%20%26%20Growth-0369A1?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-36BCF7?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Frontend%20Projects-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Projects" />
+  <img src="https://img.shields.io/badge/Collaboration-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Learning%20%26%20Growth-0369A1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning and Growth" />
 </p>
 
 ---
@@ -112,50 +88,48 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 ### 💻 Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" alt="C C++ JavaScript TypeScript" />
 </p>
 
 ### 🎨 Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="HTML CSS React Next.js" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js Express MongoDB MySQL" />
 </p>
 
 ### 🔧 Tools & Design
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
+| Project                 | Description                                                               | Tech       |
+| ----------------------- | ------------------------------------------------------------------------- | ---------- |
 | 🚀 **My Web Portfolio** | Personal developer portfolio showcasing my skills, projects, and journey. | HTML • CSS |
-| 💻 **DevConf 2026** | Modern developer conference website built with a responsive UI. | HTML • CSS |
+| 💻 **DevConf 2026**     | Modern developer conference website built with a responsive UI.           | HTML • CSS |
 
 <p align="center">
   <a href="https://github.com/sajidraian/my-web-portfolio">
-    <img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
   </a>
 
   <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
-    <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View DevConf" />
   </a>
 </p>
 
 ---
-
-
 
 ## 📊 GitHub Statistics
 
@@ -163,35 +137,21 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
   <img
     src="https://github-readme-stats.vercel.app/api?username=sajidraian&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
+    alt="GitHub Statistics"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidraian&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidraian&layout=compact&theme=tokyonight&hide_border=true"
+ height="165"
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=sajidraian&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sajidraian&theme=algolia&no-frame=true&no-bg=true&margin-w=8"
-  />
-</p>
-
----
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -199,9 +159,9 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 ## 🧠 Developer Mindset
 
-<p align="center">
-  <h3 align="center">Learn → Build → Break → Fix → Improve → Repeat</h3>
-</p>
+<h3 align="center">
+Learn → Build → Break → Fix → Improve → Repeat
+</h3>
 
 <p align="center">
   <i>
@@ -216,15 +176,15 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 <p align="center">
   <a href="https://github.com/sajidraian">
-    <img src="https://img.shields.io/badge/GitHub-sajidraian-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-sajidraian-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <a href="https://linkedin.com/in/sajid-al-raian">
-    <img src="https://img.shields.io/badge/LinkedIn-Sajid%20Al%20Raian-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sajid%20Al%20Raian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="mailto:raian.12511010.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -234,7 +194,7 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=sajidraian&label=Profile%20Views&color=36BCF7&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=sajidraian&label=Profile%20Views&style=flat-square"
     alt="Profile Views"
   />
 </p>
@@ -242,4 +202,3 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 <p align="center">
   <i>Thanks for visiting my profile. Let's build something meaningful. 🚀</i>
 </p>
-```
