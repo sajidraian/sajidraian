@@ -116,8 +116,8 @@ I enjoy turning ideas into clean code, solving programming problems, and explori
 
 | Project                 | Description                                                               | Tech                     |
 | ----------------------- | ------------------------------------------------------------------------- | ------------------------ |
-| 🚀 **My Web Portfolio** | Personal developer portfolio showcasing my skills, projects, and journey. | React • JavaScript • CSS |
-| 💻 **DevConf 2026**     | Modern developer conference website built with a responsive UI.           | React • JavaScript • CSS |
+| 🚀 **My Web Portfolio** | Personal developer portfolio showcasing my skills, projects, and journey. | HTML • CSS |
+| 💻 **DevConf 2026**     | Modern developer conference website built with a responsive UI.           | HTML • CSS |
 
 <p align="center">
   <a href="https://github.com/sajidraian/my-web-portfolio">
