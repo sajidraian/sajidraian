@@ -134,23 +134,23 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🚀 **My Web Portfolio** | Personal developer portfolio showcasing my skills, projects, and journey. | HTML • CSS |
-| 💻 **DevConf 2026** | Modern developer conference website built with a responsive UI. | HTML • CSS |
+| Project                       | Description                                                                                                                       | Tech                                        |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 🚀 **Dev Stack Builder A_05** | A modern and responsive developer-focused web application built with React, featuring a clean UI and interactive user experience. | React.js • JavaScript • Tailwind CSS • Vite |
+| 💻 **DevConf 2026**           | Modern developer conference website built with a responsive UI.                                                                   | HTML • CSS                                  |
 
 <p align="center">
-  <a href="https://github.com/sajidraian/my-web-portfolio">
-    <img src="https://img.shields.io/badge/View%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sajidraian/dev-stack-builder-a_05">
+    <img src="https://img.shields.io/badge/View%20Dev%20Stack%20Builder-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
     <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
