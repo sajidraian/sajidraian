@@ -136,21 +136,23 @@ Outside of coding, I enjoy **football, movies, and exploring new things**. 🚀
 ---
 ## 📌 Featured Projects
 
-| Project                       | Description                                                                                                                       | Tech                                        |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 🚀 **Dev Stack Builder A_05** | A modern and responsive developer-focused web application built with React, featuring a clean UI and interactive user experience. | React.js • JavaScript • Tailwind CSS • Vite |
-| 💻 **DevConf 2026**           | Modern developer conference website built with a responsive UI.                                                                   | HTML • CSS                                  |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🛒 **[BazarDor](https://github.com/sajidraian/BazarDor)** | A digital market price explorer for Bangladesh, featuring product browsing, category-based filtering, and a responsive user interface. | Next.js • React • TypeScript • MongoDB • Better Auth |
+| 🚀 **[Dev Stack Builder A_05](https://github.com/sajidraian/dev-stack-builder-a_05)** | A modern developer-focused web application for exploring technologies and building a personalized tech stack through an interactive interface. | React.js • JavaScript • Tailwind CSS • Vite |
+| 💻 **[DevConf 2026](https://github.com/sajidraian/PH_B14-A-01_devconf-2026)** | A responsive developer conference website with a clean and modern user interface. | HTML • CSS |
 
 <p align="center">
-  <a href="https://github.com/sajidraian/dev-stack-builder-a_05">
-    <img src="https://img.shields.io/badge/View%20Dev%20Stack%20Builder-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://bazardor26.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-BazarDor-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <a href="https://github.com/sajidraian/PH_B14-A-01_devconf-2026">
-    <img src="https://img.shields.io/badge/View%20DevConf-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/sajidraian/BazarDor">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/sajidraian/dev-stack-builder-a_05">
+    <img src="https://img.shields.io/badge/Dev%20Stack%20Builder-GitHub-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
